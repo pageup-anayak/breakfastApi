@@ -1,0 +1,11 @@
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.deps.json
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.dll
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.dll
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/refint/BuberBreakfast.Contracts.dll
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/home/ankish2000nayak/Projects/tech-practices/dotnetPractices/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/ref/BuberBreakfast.Contracts.dll
